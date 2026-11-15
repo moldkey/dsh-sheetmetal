@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-sheetmetal.svg)](https://deepseekbase.com/plugins/dsh-sheetmetal/)
 <p align="center"><strong>dsh-sheetmetal — 钣金展开与 DFM</strong></p>
 
 折弯补偿、折弯扣除、多段展开、可制造性检查。输入板厚/角度/半径即可算，不依赖任何外部服务。
